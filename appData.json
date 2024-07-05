@@ -1,0 +1,79 @@
+{
+    "appData": [
+      {
+        "type": "news",
+        "items": [
+          "Prime Minister Narendra Modi to hold talks with his Bangladesh counterpart Sheikh Hasina in New Delhi today; Two countries to sign a number of agreements.",
+          "Centre brings into force stringent law to curb irregularities in competitive examinations. National Testing Agency postpones Joint CSIR-UGC-NET Examination June 2024 due to unavoidable circumstances and logistic issues.",
+          "Centre brings into force stringent law to curb irregularities in competitive examinations. National Testing Agency postpones Joint CSIR-UGC-NET Examination June 2024 due to unavoidable circumstances and logistic issues.",
+          "Centre brings into force stringent law to curb irregularities in competitive examinations. National Testing Agency postpones Joint CSIR-UGC-NET Examination June 2024 due to unavoidable circumstances and logistic issues.",
+          "Centre brings into force stringent law to curb irregularities in competitive examinations. National Testing Agency postpones Joint CSIR-UGC-NET Examination June 2024 due to unavoidable circumstances and logistic issues.",
+          "Centre brings into force stringent law to curb irregularities in competitive examinations. National Testing Agency postpones Joint CSIR-UGC-NET Examination June 2024 due to unavoidable circumstances and logistic issues.",
+          "Finance Minister Nirmala Sitharaman to chair 53rd GST Council meeting in New Delhi today.",
+          "Akashvani News recognized as one of most trusted news brands in India.",
+          "In cricket, India to take on Bangladesh in Super 8 encounter in T20 Men's World Cup this evening."
+        ]
+      },
+      {
+        "type": "totd",
+        "items": [
+          { "name": "Abraham Lincoln", "quote": "“The best way to predict the future is to create it.”"}
+        ]
+      },
+
+      {
+        "type": "wotd",
+        "items": [
+          { "word": "Polemic", "meaning": "A polemic is a strong written or spoken attack against someone else’s opinions, beliefs, practices, etc.", "example": "Her book is a fierce polemic against societal inequalities."}
+        ]
+      },
+
+      {
+        "type": "jotd",
+        "items": [
+          { "joke": "I couldn't figure out why the baseball kept getting larger.\n\nThen it hit me."}
+        ]
+      },
+
+      {
+        "type": "birthday",
+        "items": [
+          { "name": "Gautam Adani", "profession": "Indian businessman", "birthday": "June 24, 1962"},
+          { "name": "Vijayashanti", "profession": "Indian actress/politician", "birthday": "June 24, 1966"},
+          { "name": "Sumona Chakravarti", "profession": "Indian actress", "birthday": "June 24, 1988"}
+        ]
+      },
+
+      {
+        "type": "history",
+        "items": [
+          { "date": "26-June-1874", "event": "Rajarshi Shahu Chhatrapati, great revolutionary freedom fighter and social reformer, was born." },
+          { "date": "26-June-1888", "event": "Narayan Shripad Rajhans (Balgandharv), famous singer and actor, was born." },
+          { "date": "26-June-1888", "event": "Ghanshyam Das Birla, great freedom fighter and social reformer, was born at Pilani." },
+          { "date": "26-June-1906", "event": "M.P. Sivagnanam, famous Tamil writer and social worker, was born at Madras." },
+          { "date": "26-June-1954", "event": "Nehru, Chou En-lai pledge good-neighbor policy at New Delhi." },
+          { "date": "26-June-1955", "event": "Poland and India affirm Panchsheel." },
+          { "date": "26-June-1975", "event": "Chaudhary Charan Singh, freedom fighter and Chief Minister of UP, arrested by Government." },
+          { "date": "26-June-1982", "event": "First Boeing 707 of Air India `Gaurishankar' was crashed at Sahar Airport (Bombay)." },
+          { "date": "26-June-1983", "event": "Five hundred killed or missing as monsoon floods hit the Indian state of Gujarat." },
+          { "date": "26-June-1991", "event": "Sharad Pawar joins Union Cabinet as Defence Minister." },
+          { "date": "26-June-1992", "event": "The Tin Bigha corridor leased to Bangladesh as per the Indo-Bangladesh agreement." },
+          { "date": "26-June-1995", "event": "Madhya Pradesh declared 'Tiger State' as it homes one sixth of the world's tiger population." },
+          { "date": "26-June-1997", "event": "India declares its chemical weapon stockpiles and storage facilities as part of its obligations as signatory to the Chemical Weapons Convention." }
+        ]
+      },
+
+      {
+        "type": "deals",
+        "items": [
+          { "name": "Fire-Boltt Ninja Call Pro Plus 1.83", "url": "https://amzn.to/4cyNEYf", "price": "1299", "tnc": "terms and conditions"},
+          { "name": "Vistek 32” 32 inch Full HD Android Smart Led TV 512MB 8GB - (Black)", "url": "https://amzn.to/3xys2MW", "price": "8999", "tnc": "terms and conditions"},
+          { "name": "OnePlus Nord Buds 2r True Wireless in Ear Earbuds with Mic", "url": "https://amzn.to/3VBKb4y", "price": "1899", "tnc": "terms and conditions"}
+        ]
+      }
+
+      
+
+      
+    ]
+  }
