@@ -1,111 +1,154 @@
 {
-    "newsArray" :
-    [
-        "Prime Minister Narendra Modi describes his Austria visit as historic and immensely productive; Says it has added vigour to ties between the two countries.",
-        "Second BIMSTEC Foreign Ministers' Retreat to begin today in New Delhi.",
-        "Prime Minister Narendra Modi to interact with economists in New Delhi to elicit their views on upcoming Union Budget.",
-        "Health Ministry says, existing district and referral hospitals which have been converted into Medical Colleges will continue to receive funding from Central government.",
-        "IMD forecasts heavy rain in Goa, Maharashtra, Gujarat and Coastal Karnataka till Sunday.",
-        "In Tennis, N. Sriram Balaji and his partner Gonzalo Escobar advance to quarter-finals of Men's Doubles event at Brawo Open Challenger in Germany."
-    ],
-
-    "word" : {
-        "word": "Hello World",
-        "meaning": "A simple program that outputs 'Hello, World!' to the screen. It is often used to illustrate the basic syntax of a programming language for a working program.",
-        "example": "The first program that students write in any new programming language is 'Hello, World!'"
+  "newsArray": [
+    "Microsoft software outage disrupts multiple services worldwide; IT Minister Ashwini Vaishnaw says reason for outage has been identified and updates have been released to resolve the issue.",
+    "New Delhi appeals to Indian nationals in Bangladesh to follow advisory issued by High Commission in Dhaka due to anti-quota protests.",
+    "President Droupadi Murmu presents 94 Distinguished Service Awards to serving and retired personnel of Armed forces and Indian Coast Guard.",
+    "Vice President Jagdeep Dhankhar emphasizes need of urgent action to tackle climate change.",
+    "Home Minister Amit Shah stresses upon greater synergy between security and Law Enforcement agencies to dismantle terror networks and their supporting ecosystem.",
+    "And in Women's Asia cup T20 cricket, Pakistan set a target of 109 runs against defending champions India in Dambulla, Sri Lanka."
+  ],
+  "quote": {
+    "quote": "We cannot solve problems with the kind of thinking we employed when we came up with them.",
+    "author": "Albert Einstein"
+  },
+  "word": {
+    "word": "frabjous",
+    "meaning": "wonderful, elegant, superb",
+    "example": "The children had a frabjous time at the amusement park."
+  },
+  "joke": {
+    "joke": "Five out of six people agree that Russian Roulette is safe."
+  },
+  "birthdays": [
+    {
+      "name": "Naseeruddin Shah",
+      "date": "Jul 20, 1950",
+      "place": "Barabanki",
+      "profession": "Indian actor"
     },
-
-    "quote" : {
-        "quote": "The only way to do great work is to love what you do.",
-        "author": "Steve Jobs"
+    {
+      "name": "Arunima Sinha",
+      "date": "Jul 20, 1988",
+      "place": "Ambedkar Nagar district",
+      "profession": "World's first female amputee to climb Mount Everest"
     },
-
-    "joke" : {
-        "joke": "What’s the difference between an outlaw and an in-law? \n\n Outlaws are wanted. 😄"
+    {
+      "name": "Shefali Shah",
+      "date": "Jul 20, 1972",
+      "place": "Mumbai",
+      "profession": "Indian actress"
     },
-
-    "birthdays" : [
-        {
-            "name": "Shiva Rajkumar",
-            "date": "July 12, 1961",
-            "place": "Karnataka",
-            "profession": "Actor"
-        },
-        {
-            "name": "Sujitha",
-            "date": "July 12, 1983",
-            "place": "Thiruvananthapuram",
-            "profession": "Actress"
-        },
-        {
-            "name": "Evelyn Sharma",
-            "date": "July 12, 1980",
-            "place": "Aschaffenburg",
-            "profession": "Model and actress"
-        },
-        {
-            "name": "Sulakshana Pandit",
-            "date": "July 12, 1954",
-            "place": "Raigarh",
-            "profession": "Actress"
-        },
-        {
-            "name": "Vinay Pathak",
-            "date": "July 12, 1968",
-            "place": "Dhanbad",
-            "profession": "Actor"
-        },
-        {
-            "name": "Jaishankar",
-            "date": "July 12, 1938",
-            "place": "Chennai",
-            "profession": "Actor"
-        },
-        {
-            "name": "Parvin Dabas",
-            "date": "July 12, 1974",
-            "place": "Delhi",
-            "profession": "Actor"
-        },
-        {
-            "name": "Bimal Roy",
-            "date": "July 12, 1909",
-            "place": "Dhaka",
-            "profession": "Film director"
-        },
-        {
-            "name": "Y.V. Chandrachud",
-            "date": "July 12, 1920",
-            "place": "Pune",
-            "profession": "16th Chief Justice of India"
-        },
-        {
-            "name": "Vasanthabalan",
-            "date": "July 12, 1972",
-            "place": "Virudhunagar",
-            "profession": "Film director"
-        }
-    ],
-
-    "history" : [
-        { "date": "26-June-1874", "event": "Rajarshi Shahu Chhatrapati, great revolutionary freedom fighter and social reformer, was born." },
-        { "date": "26-June-1888", "event": "Narayan Shripad Rajhans (Balgandharv), famous singer and actor, was born." },
-        { "date": "26-June-1888", "event": "Ghanshyam Das Birla, great freedom fighter and social reformer, was born at Pilani." },
-        { "date": "26-June-1906", "event": "M.P. Sivagnanam, famous Tamil writer and social worker, was born at Madras." },
-        { "date": "26-June-1954", "event": "Nehru, Chou En-lai pledge good-neighbor policy at New Delhi." },
-        { "date": "26-June-1955", "event": "Poland and India affirm Panchsheel." },
-        { "date": "26-June-1975", "event": "Chaudhary Charan Singh, freedom fighter and Chief Minister of UP, arrested by Government." },
-        { "date": "26-June-1982", "event": "First Boeing 707 of Air India `Gaurishankar' was crashed at Sahar Airport (Bombay)." },
-        { "date": "26-June-1983", "event": "Five hundred killed or missing as monsoon floods hit the Indian state of Gujarat." },
-        { "date": "26-June-1991", "event": "Sharad Pawar joins Union Cabinet as Defence Minister." },
-        { "date": "26-June-1992", "event": "The Tin Bigha corridor leased to Bangladesh as per the Indo-Bangladesh agreement." },
-        { "date": "26-June-1995", "event": "Madhya Pradesh declared 'Tiger State' as it homes one sixth of the world's tiger population." },
-        { "date": "26-June-1997", "event": "India declares its chemical weapon stockpiles and storage facilities as part of its obligations as signatory to the Chemical Weapons Convention." }
-    ],
-
-    "deals" : [
-        { "name": "Fire-Boltt Ninja Call Pro Plus 1.83", "url": "https://amzn.to/4cyNEYf", "price": "1299", "tnc": "terms and conditions"},
-        { "name": "Vistek 32” 32 inch Full HD Android Smart Led TV 512MB 8GB - (Black)", "url": "https://amzn.to/3xys2MW", "price": "8999", "tnc": "terms and conditions"},
-        { "name": "OnePlus Nord Buds 2r True Wireless in Ear Earbuds with Mic", "url": "https://amzn.to/3VBKb4y", "price": "1899", "tnc": "terms and conditions"}
-    ]
+    {
+      "name": "Rajendra Kumar",
+      "date": "Jul 20, 1929",
+      "place": "Sialkot",
+      "profession": "Indian actor"
+    },
+    {
+      "name": "Kajal Raghwani",
+      "date": "Jul 20, 1990",
+      "place": "Pune",
+      "profession": "Indian actor"
+    },
+    {
+      "name": "Gracy Singh",
+      "date": "Jul 20, 1980",
+      "place": "New Delhi",
+      "profession": "Indian actress"
+    },
+    {
+      "name": "S. J. Surya",
+      "date": "Jul 20, 1968",
+      "place": "Vasudevanallur",
+      "profession": "Indian actor and film director"
+    },
+    {
+      "name": "Sakshi Agarwal",
+      "date": "Jul 20, 1990",
+      "place": "Almora",
+      "profession": "Indian actor"
+    },
+    {
+      "name": "Anandhi",
+      "date": "Jul 20, 1994",
+      "place": "Warangal Urban District",
+      "profession": "Indian actress"
+    },
+    {
+      "name": "Juhi Babbar",
+      "date": "Jul 20, 1979",
+      "place": "Lucknow",
+      "profession": "Indian actress"
+    }
+  ],
+  "history": [
+    {
+      "date": "19-July-1309",
+      "event": "Saint Visoba Khechar, was the yogi-guru of the Varkari poet-saint Namdev of Maharashtra, took Samadhi."
+    },
+    {
+      "date": "19-July-1763",
+      "event": "Mir Kasim was defeated in 'Katwa' battle by Britishers."
+    },
+    {
+      "date": "19-July-1925",
+      "event": "Dinesh Singh, freedom fighter and politician, was born at Kalakankar (U.P)."
+    },
+    {
+      "date": "19-July-1938",
+      "event": "Jayant Vishnu Narlikar, great Indian space scientist and mathematician, was born at Kolhapur, Maharashtra."
+    },
+    {
+      "date": "19-July-1949",
+      "event": "Raja of Tehri Garhwal announces merger with Indian Union."
+    },
+    {
+      "date": "19-July-1952",
+      "event": "India all out 82 in 2nd innings after making 52 runs earlier in the day."
+    },
+    {
+      "date": "19-July-1955",
+      "event": "Roger Michael Humphery Binny, Indian medium-pace all-rounder early eighties, was born at Bangalore."
+    },
+    {
+      "date": "19-July-1965",
+      "event": "Batukeshwar Dutt, great revolutionary, passed away."
+    },
+    {
+      "date": "19-July-1969",
+      "event": "Indian Government nationalised 14 major commercial banks of India by Presidental ordinance."
+    },
+    {
+      "date": "19-July-1974",
+      "event": "Udham Singh's, revolutionary, ashes brought to Delhi from London."
+    },
+    {
+      "date": "19-July-1987",
+      "event": "Rajiv Gandhi,Congress President, expels V.P. Singh from Congress and orders probe into Ajitabh Bachhan's property abroad."
+    },
+    {
+      "date": "19-July-1990",
+      "event": "Planning Commission decides to make changes in the Gadgil formula for central assistance to States in consultation with states."
+    },
+    {
+      "date": "19-July-1993",
+      "event": "Girilal Jain, senior journalist, passed away."
+    },
+    {
+      "date": "19-July-1994",
+      "event": "The Tamil Nadu Bill for continuance of the 69\\% reservation policy in the state receives the President's assent."
+    },
+    {
+      "date": "19-July-1998",
+      "event": "The INSAT-2C satellite suffers ``disorientation'' - loss of earth lock - briefly."
+    },
+    {
+      "date": "19-July-1998",
+      "event": "Tremors measuring 4.4 on the Richter scale rocked Maharashtra and Madhya Pradesh."
+    },
+    {
+      "date": "19-July-2000",
+      "event": "The Centre has no locus standi in Thackeray case, says the Prime Minister and rejects the resignations of Shiv Sena nominees in the Union Cabinet-- Manohar Joshi, Suresh Prabhu and Balasaheb Vikhe-Patil."
+    }
+  ]
 }
