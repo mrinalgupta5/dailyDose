@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dailyDose.app",
+      "sha256_cert_fingerprints": [
+        "B5:6A:F1:5F:21:C8:99:16:3C:19:AD:82:69:9A:D7:FC:03:ED:9C:A9:6F:03:B2:43:40:66:48:C4:2E:C1:6F:12"
+      ]
+    }
+  }
+]
